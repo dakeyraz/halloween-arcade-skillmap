@@ -1,7 +1,6 @@
 # halloween-parkour
 * name: Spooky Rooftop Escape
 * description: Build a Halloween parkour platformer step-by-step!
-* infoUrl: https://arcade.makecode.com/
 * backgroundColor: #1a103c
 * primaryColor: #ff6b00
 * secondaryColor: #005f73
