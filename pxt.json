@@ -1,20 +1,15 @@
 {
-    "name": "halloween-parkour",
+    "name": "halloween-arcade-skillmap",
     "description": "Halloween Parkour Skillmap",
     "dependencies": {
         "device": "*"
     },
-  "files": [
-    "skillmap.md",
-    "step1.md",
-    "step2.md",
-    "step3.md"
-  ],
-    "targetVersions": {
-        "target": "1.12.57",
-        "targetId": "arcade"
-    },
-    "supportedTargets": [
-        "arcade"
-    ]
+    "files": [
+        "README.md",
+        "skillmap.md",
+        "step1.md",
+        "step2.md",
+        "step3.md"
+    ],
+    "preferredEditor": "blocksprj"
 }
